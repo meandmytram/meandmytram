@@ -1,4 +1,4 @@
-https://www.codewars.com/users/meandmytram/badges/large
+[![Codewars](https://www.codewars.com/users/meandmytram/badges/large)](https://www.codewars.com/users/meandmytram)
 
 <!--
 **meandmytram/meandmytram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

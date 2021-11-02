@@ -1,5 +1,5 @@
 [![Codewars](https://www.codewars.com/users/meandmytram/badges/large)](https://www.codewars.com/users/meandmytram)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meandmytrama&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meandmytram&count_private=true)
 
 
